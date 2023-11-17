@@ -1232,7 +1232,7 @@ section .container {
  position: absolute;
  top: 50%;
  right: 0;
- transform: translate(-350%, -50%); 
+ transform: translate(-400%, -50%); 
 }
 
 .landscape img{
